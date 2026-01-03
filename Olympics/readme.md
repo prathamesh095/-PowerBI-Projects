@@ -15,7 +15,7 @@ This dashboard is designed using **official Olympic data structures**, clean UX 
 ![Home Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Screenshots/Home.png)
 
 ### Overview Analytics
-![Overview Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Screenshots/Overview.png)
+![Overview Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Screenshots/overview.png)
 
 ### Athletes Dashboard
 ![Athletes Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Screenshots/Athletes.png)
@@ -27,7 +27,7 @@ This dashboard is designed using **official Olympic data structures**, clean UX 
 ![Historical Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Screenshots/Historical.png)
 
 ### Data Model
-![Data Model](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Screenshots/Data_Model.png)
+![Data Model](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Data Model/Data Model.png)
 
 ---
 
