@@ -8,25 +8,25 @@ This dashboard is designed with **real-world healthcare KPIs**, clean UX, and sc
 ## 📸 Dashboard Preview
 
 ### Home / Overview
-![Home Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/Doctor.png)
+![Home Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/Home.png)
 
 ### Overview Analytics
-![Overview Dashboard](./Overview.png)
+![Overview Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/Overview.png)
 
 ### Patients Dashboard
-![Patients Dashboard](./patient.png)
+![Patients Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/patient.png)
 
 ### Doctors Dashboard
-![Doctors Dashboard](./Doctor.png)
+![Doctors Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/Doctor.png)
 
 ### Hospital Operations
-![Hospital Dashboard](./Hospital.png)
+![Hospital Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/Hospital.png)
 
 ### Finance & Revenue
-![Finance Dashboard](./Finance.png)
+![Finance Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/Finance.png)
 
 ### Data Model
-![Data Model](./Data%20Model.png)
+![Data Model](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/Finance.png)
 
 ---
 
@@ -143,7 +143,7 @@ To help **hospital administrators and management**:
 
 ---
 
-## 🧮 Sample DAX Measures
+## 🧮 Core DAX Measures
 
 ```DAX
 Total Patients =
@@ -161,56 +161,5 @@ SUMX(
     Bills[value] *
     AVERAGE(Estimate_Commission_Rate[Estimate_Commission_Rate]) / 100
 )
-🛠️ Tools & Technologies
 
-Power BI Desktop
-
-Power Query
-
-DAX
-
-Star Schema Modeling
-
-Healthcare KPI Frameworks
-
-📈 Analytical Use Cases
-
-Identify high-performing doctors
-
-Detect ICU and bed capacity risks
-
-Track medicine stock shortages
-
-Analyze revenue contribution by service
-
-Improve operational and financial efficiency
-
-📚 References & Standards
-
-WHO – Health Systems Performance
-https://www.who.int/data/gho
-
-Microsoft Power BI Data Modeling Best Practices
-https://learn.microsoft.com/power-bi/guidance/star-schema
-
-IBM – Healthcare Analytics Overview
-https://www.ibm.com/topics/healthcare-analytics
-
-Microsoft – DAX Best Practices
-https://learn.microsoft.com/dax/best-practices
-
-👤 Author
-
-Prathamesh Pawar
-Data & Business Analytics
-
-Built as an enterprise-grade healthcare analytics case study suitable for portfolio review, interviews, and real-world demonstrations.
-
-📄 License
-
-This project is for educational and portfolio purposes only.
-
-If you want, next I can:
-- Optimize this for **FAANG / Big-4 portfolio standards**
-- Create a **GitHub-perfect folder structure**
-- Write a **resume-ready project description (3–4 bullets)**
+```DAX
