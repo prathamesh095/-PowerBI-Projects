@@ -27,7 +27,7 @@ This dashboard is designed using **official Olympic data structures**, clean UX 
 ![Historical Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Screenshots/Historical.png)
 
 ### Data Model
-![Data Model](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Data Model/Data Model.png)
+![Data Model](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Olympics/Data%20Model/Data%20Model.png)
 
 ---
 
