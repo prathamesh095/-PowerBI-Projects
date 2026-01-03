@@ -164,12 +164,13 @@ To help **hospital administrators and management**:
 * Track medicine stock shortages
 * Analyze revenue contribution by service
 * Improve operational and financial efficiency
+  
 ## 👤 Author
 
-- Prathamesh Pawar
-Data & Business Analytics
+**Prathamesh Pawar**  
+Data & Business Analytics  
 
-Built as an enterprise-grade healthcare analytics case study suitable for portfolio review, interviews, and real-world demonstrations.
+Built as an **enterprise-grade Olympic analytics case study**, suitable for portfolio review, interviews, and real-world analytical demonstrations.
 
 
 
