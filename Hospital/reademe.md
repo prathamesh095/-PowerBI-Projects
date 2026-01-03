@@ -8,7 +8,7 @@ This dashboard is designed with **real-world healthcare KPIs**, clean UX, and sc
 ## 📸 Dashboard Preview
 
 ### Home / Overview
-![Home Dashboard](./Home.png)
+![Home Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Hospital/Screenshots/Doctor.png)
 
 ### Overview Analytics
 ![Overview Dashboard](./Overview.png)
