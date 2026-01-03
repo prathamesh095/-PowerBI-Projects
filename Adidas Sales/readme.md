@@ -12,7 +12,7 @@ The dashboard is designed with **real-world retail KPIs**, executive-friendly UX
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Adidas Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Adidas/Screenshots/Overview.png)
+![Adidas Dashboard](https://github.com/prathamesh095/-PowerBI-Projects/blob/main/Adidas/Screenshot/Overview.png)
 
 ---
 
