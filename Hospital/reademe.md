@@ -1,5 +1,11 @@
 # 🏥 Hospital Analytics Dashboard (Power BI)
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+
 A **compact, portfolio-ready, enterprise-style Power BI project** that delivers a 360° analytical view of hospital operations — covering **patients, doctors, hospital resources, medicines, and finance**.  
 This dashboard is designed with **real-world healthcare KPIs**, clean UX, and scalable data modeling practices used in large organizations.
 
@@ -143,23 +149,36 @@ To help **hospital administrators and management**:
 
 ---
 
-## 🧮 Core DAX Measures
 
-```DAX
-Total Patients =
-DISTINCTCOUNT(Patient_Info[patient_id])
+## 🛠️ Tools & Technologies
+* Power BI Desktop
+* Power Query
+* DAX
+* Star Schema Modeling
+* Healthcare KPI Frameworks
 
-Total Bill Amount =
-SUM(Bills[value])
 
-Medicine Sale Qty =
-SUM(medicine_patient[qty])
+## 📈 Analytical Use Cases
+* Identify high-performing doctors
+* Detect ICU and bed capacity risks
+* Track medicine stock shortages
+* Analyze revenue contribution by service
+* Improve operational and financial efficiency
+## 👤 Author
 
-Doctor Commission =
-SUMX(
-    Bills,
-    Bills[value] *
-    AVERAGE(Estimate_Commission_Rate[Estimate_Commission_Rate]) / 100
-)
+- Prathamesh Pawar
+Data & Business Analytics
 
-```DAX
+Built as an enterprise-grade healthcare analytics case study suitable for portfolio review, interviews, and real-world demonstrations.
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dataverse-profile.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh095/)
+
+
+
+## 📄 License
+This project is for educational and portfolio purposes only.
+
